@@ -2,7 +2,7 @@
 
 # HTML Profile Card to JSX
 
-## 📌 Project Overview
+##  Project Overview
 
 This project converts a standard HTML user profile card into a React JSX component.  
 The goal of this assignment is to demonstrate understanding of:
@@ -15,7 +15,7 @@ The goal of this assignment is to demonstrate understanding of:
 
 
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 - React
 - JavaScript (ES6)
@@ -25,7 +25,7 @@ The goal of this assignment is to demonstrate understanding of:
 
 
 
-## 🚀 How to Run the Project
+##  How to Run the Project
 
 1. Clone the repository:
 2. Navigate into the project folder:
@@ -51,14 +51,14 @@ Example usage:
 ```jsx
 <UserProfile name="Hanna Ali" email="henna.ali@seattle.com" />
 
-🧪 Test Cases
+ Test Cases
 
-✅ Normal Cases
+ Normal Cases
 	1.	Hanna Ali – Valid name and email
 	2.	Eric John – Valid name and email
 	3.	David Smith – Valid name and email
 
-⚠️ Edge Cases
+ Edge Cases
 	1.	Empty name
 	2.	Empty email
 	3.	No props passed
@@ -67,7 +67,6 @@ The component handles missing data using:
 	•	Logical OR (||) for fallback values
 	•	Conditional rendering (&&) for the email link
 
-⸻
 
     Features Implemented
 	•	Converted HTML to JSX
@@ -78,7 +77,7 @@ The component handles missing data using:
 	•	Implemented conditional rendering
 	•	Added multiple test cases
 
-⸻
+
 
   Demonstration
 
