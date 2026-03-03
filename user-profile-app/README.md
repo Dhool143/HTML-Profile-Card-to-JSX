@@ -48,8 +48,10 @@ The `UserProfile` component:
 
 Example usage:
 
-```jsx
+  jsx
 <UserProfile name="Hanna Ali" email="henna.ali@seattle.com" />
+<UserProfile name="Sarah Yusuf" email="sarah@email.com"/>
+<UserProfile name="Jessica Smith" email="jessica.smith@gmail.com"/>
 
  Test Cases
 
