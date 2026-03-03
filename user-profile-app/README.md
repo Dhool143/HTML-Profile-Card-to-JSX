@@ -81,10 +81,4 @@ The component handles missing data using:
 
 
 
-  Demonstration
-
-A video demonstration is provided showing:
-	•	Application functionality
-	•	Normal test cases
-	•	Edge case handling
-	•	Explanation of implementation
+  
