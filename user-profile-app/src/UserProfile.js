@@ -1,6 +1,6 @@
 
 import react from "react"
-import profilePic from "./images/profile.png";
+import profilePhoto from "./images/profile.png";
 
 function UserProfile({ name, email}) {
 
@@ -9,7 +9,7 @@ function UserProfile({ name, email}) {
 
         <h1>User Profile</h1>
 
-        <img src={profilePic} alt="User photo" className="photo"/>
+        <img src={profilePhoto} alt="User photo" className="photo"/>
         
         <p>Name: {name || "No Name Provided"}</p>
         <p>Email: {email || "No Email Provided"}</p>

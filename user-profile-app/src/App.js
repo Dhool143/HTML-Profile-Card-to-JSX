@@ -6,7 +6,9 @@ function App () {
 
   return (
 
- <div>
+    
+
+ <div className="App">
   {/*Normal case*/}
 
 
